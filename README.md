@@ -33,7 +33,7 @@ Go to File → Add Package Dependencies
 
 Enter the repository URL:
 
-https://github.com/akshay-ios/PolyNetSDK.git
+https://github.com/akshay-ios/System73-SDK-iOS-SPM.git
 
 
 Select Version: 5.2.0
